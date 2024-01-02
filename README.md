@@ -20,4 +20,5 @@ The languages I am trying to master right now include: C++, SQL, Python
 Wanna chat? What's on your mind? Lay it on me!
 Reach me at [casually](https://www.instagram.com/abrawr.r/) or, [formally](https://www.linkedin.com/in/abraralrashid/)
 
+###### Art credit: [PixelJeff](https://artstation.com/artwork/8ldGwO)
 
