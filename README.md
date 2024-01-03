@@ -1,6 +1,6 @@
 ## **Bits About Myself**
 
-Hey there, I'm Abrar, a software engineering fresher at UTM and a coding maestro(jk unless...) hailing from the vibrant land of Bangladesh! My heart beats to the rhythm of turning wild ideas into reality, crafting sleek interfaces that make you go "wow." When it comes to what I create, I'm all about the perfect blend of user experience, rock-solid architecture, and code so clean it practically sparkles. My coding experiences are pretty slim (for now, but I am working on it.)
+Hey there, I'm Abrar, a software engineering fresher at UTM and a coding maestro(jk unless...) hailing from the vibrant land of Bangladesh! My heart beats to the rhythm of turning wild ideas into reality, crafting sleek interfaces that make you go "wow." When it comes to what I create, I'm all about the perfect blend of user experience, rock-solid architecture, and code so clean it practically sparkles. My coding experiences are pretty slim (for now, but I am working on it). You can learn more about me in my portfolio [here.](https://www.linkedin.com/in/abraralrashid/)
 
 <img align="right" src="https://github.com/mazecat2k/mazecat2k/blob/main/codingjeffgif.gif">
 
