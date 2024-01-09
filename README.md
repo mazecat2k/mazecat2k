@@ -1,13 +1,13 @@
 ## **Bits About Myself**
 
-Hey there, I'm Abrar, a software engineering fresher at UTM and a coding maestro(jk unless...) hailing from the vibrant land of Bangladesh! My heart beats to the rhythm of turning wild ideas into reality, crafting sleek interfaces that make you go "wow." When it comes to what I create, I'm all about the perfect blend of user experience, rock-solid architecture, and code so clean it practically sparkles. My coding experiences are pretty slim (for now, but I am working on it). You can learn more about me in my portfolio [here.](https://mazecat2k.github.io/)
+Greetings, I am Abrar, a software engineering student pursuing my bachelor's degree at Universiti Teknologi Malaysia. I am from Bangladesh, my passion lies in transforming innovative concepts into tangible solutions, meticulously designing interfaces that evoke admiration. My focus revolves around achieving a harmonious synthesis of impeccable user experience, robust architecture, and code characterized by its pristine clarity. Although my coding exposure is currently limited, I am diligently enhancing my skills. For further insights into my professional journey, kindly explore my portfolio [here.](https://mazecat2k.github.io/)
 
 <img align="right" src="https://github.com/mazecat2k/mazecat2k/blob/main/codingjeffgif.gif">
 
 
 ### **My Interets**                                                                                                                          
 
-But wait, there's more! I'm not just a code virtuoso(jk again...); I'm also a die-hard fan of all things open source. I've soaked up a ton of knowledge from the open-source community, and I'm all about that collaborative, knowledge-sharing dance that happens in the open-source world. Let's keep the code love alive! 💻✨
+Beyond my proficiency in coding, I am a dedicated adherent to the principles of open source. My profound appreciation for collaborative efforts and knowledge-sharing within the open-source community has been integral to my intellectual enrichment. Engaging in the intricate dance of collaborative development, I actively contribute to and draw insights from the expansive realm of open source projects. Let us sustain the spirit of mutual learning and foster the perpetual love for code innovation. 💻✨
 
 ### **My Current Learning Path**
 
