@@ -15,10 +15,8 @@ The languages I am trying to master right now include: C++, SQL, Python, HTML
 Apart from that, I am trying my best to get familiarized with the problem solving scene that is really crucial in the field of software engineering. I would say, I am good at finding alternate ways to solve a particular problem.
 Currently I am taking courses related to HTML and CSS titled Responsive Web Design by [freecodecamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 
+
 ### **Languages And Tools I Am Passionate To Work With**
-
-Made a poster about the industrial talk which can be found [here](https://github.com/mazecat2k/Assignment-1)
-
 
 I have cultivated a versatile skill set, trying my best to be proficient in a range of languages and tools. I have set my interests in learning Blender for 3D modeling and animation, while my interest for C++ is due to its high-performance computing capability and game development potential.I am also trying to learn HTML to craft immersive web experiences, and Linux for robust server architectures.
 
@@ -31,6 +29,9 @@ In game development, I am trying to familiarize myself with Unity for harmonizin
 
 
 ### **My Current Works**
+
+Made a poster about an industrial talk that took place in my university which can be found [here](https://github.com/mazecat2k/Assignment-1)
+
 
 ### **Summary**
 
