@@ -21,7 +21,7 @@ The languages I am trying to master right now include: C++, SQL, Python, HTML
 ### **Socials**
 
 Wanna chat? What's on your mind? Lay it on me!
-Reach me at [casually](https://www.instagram.com/abrawr.r/) or, [formally](https://www.linkedin.com/in/abraralrashid/)
+Reach me [over here](https://www.linkedin.com/in/abraralrashid/)
 
 Mail Address: smhabrar@graduate.utm.my
 
