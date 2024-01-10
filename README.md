@@ -30,7 +30,8 @@ In game development, I am trying to familiarize myself with Unity for harmonizin
 
 ### **My Current Works**
 
-Made a poster about an industrial talk that took place in my university which can be found [here](https://github.com/mazecat2k/Assignment-1)
+Made a poster about an industrial talk that took place in my university by Clarity Techworks Sdn Bhd for my assignment which can be found [here](https://github.com/mazecat2k/Assignment-1)
+
 
 
 ### **Summary**
