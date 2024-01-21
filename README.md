@@ -32,7 +32,7 @@ In game development, I am trying to familiarize myself with Unity for harmonizin
 
 Made a poster about an industrial talk that took place in my university by Clarity Techworks Sdn Bhd for my assignment-01 which can be found [here](https://github.com/mazecat2k/Assignment-1)
 
-Made a report about an industrial talk for my assignment-03 which can be found [here](https://github.com/mazecat2k/Assignment-3/blob/main/README.md)
+Made a report about an industrial talk on System Development @ Credence (TM Subsidiary) for my assignment-03 which can be found [here](https://github.com/mazecat2k/Assignment-3/blob/main/README.md)
 
 Made a newsletter about an industrial visit that took place in Indah water sdn bhd for my assignment-04 which can be found [here](https://github.com/mazecat2k/Assignment-on-Industry-visit-to-IndahWater/blob/main/README.md)
 
