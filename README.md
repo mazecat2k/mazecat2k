@@ -32,18 +32,15 @@ In game development, I am trying to familiarize myself with Unity for harmonizin
 
 Made a poster about an industrial talk that took place in my university by Clarity Techworks Sdn Bhd for my assignment-01 which can be found, the poster along with my reflection can be found [here](https://github.com/mazecat2k/Assignment-1)
 
-Made a video about a talk on UTM Digital for our assignment-2 which is [here](https://www.youtube.com/watch?v=86Mbb29vkfw)
+Made a video about a talk on UTM Digital for our assignment-2 which is [here](https://www.youtube.com/watch?v=86Mbb29vkfw); the link to the reflection: [here](https://github.com/mazecat2k/Assignment-02/blob/main/README.md)
 
 Made a report about an industrial talk on System Development @ Credence (TM Subsidiary) for my assignment-03, the reflection along with the report can be found [here](https://github.com/mazecat2k/Assignment-3/blob/main/README.md)
 
 Made a newsletter about an industrial visit that took place in Indah water sdn bhd for my assignment-04 the reflection along with the newsletter can be found [here](https://github.com/mazecat2k/Assignment-on-Industry-visit-to-IndahWater/blob/main/README.md)
 
+Made a prototype website design for design thinking project, the reflection and the report can be found [here, along with the link to the video](https://github.com/mazecat2k/DesignThinking/blob/main/README.md)
+
 Learnt how to **assemble and disassemble** a PC and fulfilled all the required checklist, the relection and the checklist sheet can be found [here](https://github.com/mazecat2k/Assignment-on-pc-assembly/blob/main/README.md)
-
-
-
-
-
 
 
 
