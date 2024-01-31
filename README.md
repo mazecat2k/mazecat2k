@@ -38,7 +38,7 @@ Made a report about an industrial talk on System Development @ Credence (TM Subs
 
 Made a newsletter about an industrial visit that took place in Indah water sdn bhd for my assignment-04 the reflection along with the newsletter can be found [here](https://github.com/mazecat2k/Assignment-on-Industry-visit-to-IndahWater/blob/main/README.md)
 
-Made a prototype website design for design thinking project, the reflection and the report can be found [here, along with the link to the video](https://github.com/mazecat2k/DesignThinking/blob/main/README.md)
+Made a prototype website design for design thinking project, the reflection and the report can be found [here](https://github.com/mazecat2k/DesignThinking/blob/main/README.md); the [link to the video](https://www.youtube.com/watch?v=wmQs5UVUYUo)
 
 Learnt how to **assemble and disassemble** a PC and fulfilled all the required checklist, the relection and the checklist sheet can be found [here](https://github.com/mazecat2k/Assignment-on-pc-assembly/blob/main/README.md)
 
