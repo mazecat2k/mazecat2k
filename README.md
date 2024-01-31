@@ -28,7 +28,7 @@ In game development, I am trying to familiarize myself with Unity for harmonizin
 ![mazecat2k's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazecat2k&theme=merko&show_icons=true)
 
 
-### **Assignments**
+### **Assignments and Reflections**
 
 Made a poster about an industrial talk that took place in my university by Clarity Techworks Sdn Bhd for my assignment-01 which can be found [here](https://github.com/mazecat2k/Assignment-1)
 
