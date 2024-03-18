@@ -7,7 +7,7 @@ Hey there, I'm Abrar, currently in my sophomore year doing my bachelors on Compu
 
 ### **My Interets**                                                                                                                          
 
- I'm also a die-hard fan of all things open source. I've soaked up a ton of knowledge from the open-source community, and I'm all about that collaborative, knowledge-sharing dance that happens in the open-source world. 
+ I'm a die-hard fan of all things open source. I've soaked up a ton of knowledge from the open-source community, and I'm all about that collaborative, knowledge-sharing dance that happens in the open-source world. 
 
 ### **My Current Learning Path**
 
