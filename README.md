@@ -4,7 +4,7 @@ Hey there, I'm Abrar, currently in my sophomore year doing my bachelors on Compu
 
 <img align="right" src="https://github.com/mazecat2k/mazecat2k/blob/main/codingjeffgif.gif">
 
-
+###
 ### **My Interets**                                                                                                                          
 
  I'm a die-hard fan of all things open source. I've soaked up a ton of knowledge from the open-source community, and I'm all about that collaborative, knowledge-sharing dance that happens in the open-source world. 
