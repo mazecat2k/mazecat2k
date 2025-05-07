@@ -1,6 +1,6 @@
 ## **Bits About Myself**
 
-Hey there, I'm Abrar, currently in my sophomore year doing my bachelors on Computer Science. You can learn more about me in my portfolio [here.](https://mazecat2k.github.io/)
+Hey there, I'm Abrar, currently in my senior year doing my bachelors on Computer Science. You can learn more about me in my portfolio [here.](https://mazecat2k.github.io/)
 
 <img align="right" src="https://github.com/mazecat2k/mazecat2k/blob/main/codingjeffgif.gif">
 
@@ -21,9 +21,10 @@ The languages I am trying to master right now include: C++, SQL, Java, HTML
 ### **Socials**
 
 Wanna chat? What's on your mind? Lay it on me!
-Reach me at [casually](https://www.instagram.com/abrawr.r/) or, [formally](https://www.linkedin.com/in/abraralrashid/)
+Find all my socials - [here](https://linktr.ee/Abrawr)
 
-Mail Address: smhabrar@graduate.utm.my
+
+Mail Address: marshall4677@gmail.com
 
 ###### Art credit: [PixelJeff](https://artstation.com/artwork/8ldGwO)
 
